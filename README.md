@@ -1,2 +1,5 @@
-# SimpleBinaryPackageManager6
-A Simple Binary Package Manager (by DanLP6) for Linux
+# For detailed information go to the wiki
+URL
+
+# To install (Linux only btw or WSL on Windows):
+---
