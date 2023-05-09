@@ -1,6 +1,6 @@
 #!/bin/python3
 
-#Build by DanLP6 v.a.0.1
+#Build by DanLP6 v.b.0.1
 
 import sys
 import os
