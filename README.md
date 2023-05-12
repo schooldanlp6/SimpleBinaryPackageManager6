@@ -21,5 +21,5 @@ made the package manager stable and had an issue downloading only the webpage fi
 ### beta v0.1
 
 works well
-but issue that is still open since alpha 1, it wont throw an error it will download the webpage instead of the package if not found
+but issue that is still open since [alpha 1](https://github.com/schooldanlp6/SimpleBinaryPackageManager6/blob/main/README.md#beta-v01)  , it wont throw an error it will download the webpage instead of the package if not found
 
