@@ -22,4 +22,9 @@ made the package manager stable and had an issue downloading only the webpage fi
 
 works well
 but issue that is still open since [alpha1](https://github.com/schooldanlp6/SimpleBinaryPackageManager6/blob/main/README.md#alpha-v01)  , it wont throw an error it will download the webpage instead of the package if not found
+
+
 ![Static Badge](https://img.shields.io/badge/build-passing-yellow)
+
+
+### next
